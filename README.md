@@ -1,4 +1,4 @@
-**42 School Silicon Valley Project
+**42 School Silicon Valley Project**
 
 **Libft**
 ======================== 
@@ -14,6 +14,7 @@ My implementation of some C Standart Library (LIBC) functions including addition
 **What is libft**
 -----------------------
 LIBFT is a project at 42 Silicon Valley that requires re-create C Standart Library that would be used later in my projects.
+
 **What inside the libft**
 -----------------------------
 1. *Libc Functions:* Standard C functions
